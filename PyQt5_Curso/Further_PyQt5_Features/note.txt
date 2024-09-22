@@ -1,0 +1,3 @@
+Hola preparando al app para usar, 
+Python es magnifico.
+MBI

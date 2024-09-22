@@ -1,0 +1,1 @@
+Es para crear aplicaciones de escritorio en cualquier plataforma. La version free solo soporta python 3.5 3.6
